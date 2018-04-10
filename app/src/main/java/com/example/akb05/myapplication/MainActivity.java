@@ -7,7 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
     //First Commit Test
     
-      //
+      //gibaeka~~~~~~~~~~~~~~~~~~~
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
